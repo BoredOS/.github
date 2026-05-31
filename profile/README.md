@@ -10,7 +10,7 @@
 
   <br />
 
-  [Docs](docs/README.md) · [Build & Run](docs/build/usage.md) · [AppDev SDK](docs/appdev/sdk_reference.md) · [Discord](https://discord.gg/J2BxWaFAgY) · [Support](https://buymeacoffee.com/boreddevhq)
+  [Docs](https://github.com/BoredOS/BoredOS/blob/main/docs/README.md) · [Build & Run](https://github.com/BoredOS/BoredOS/blob/main/docs/build/usage.md) · [AppDev SDK](https://github.com/BoredOS/BoredOS/blob/main/docs/appdev/custom_apps.md) · [Discord](https://discord.gg/J2BxWaFAgY) · [Support](https://buymeacoffee.com/boreddevhq)
 
 </div>
 
@@ -62,40 +62,7 @@
 
 | Guide | Description |
 |-------|-------------|
-| [Documentation Index](docs/README.md) | Start here! |
-| [Architecture Overview](docs/architecture/README.md) | Deep dive into the kernel |
-| [Building and Running](docs/build/usage.md) | Set up your build environment |
-| [AppDev SDK](docs/appdev/custom_apps.md) | Build your own apps for BoredOS |
-
----
-
-
-## ☕ Support the Journey
-
-If you find BoredOS interesting or useful, consider fueling development with a coffee!
-
-<a href="https://buymeacoffee.com/boreddevhq" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="border-radius: 8px;" />
-</a>
-
----
-
-## History
-
-**BoredOS** is the successor to **[BrewKernel](https://github.com/boreddevnl/brewkernel)**, a project started in 2023. BrewKernel served as the foundational learning ground but has since been officially deprecated and archived — it no longer receives updates, bug fixes, or pull request reviews.
-
-BoredOS is a complete architectural reboot, applying years of lessons learned to build a cleaner, more modular, and more capable system.
-
-> [!IMPORTANT]
-> Please direct all issues, discussions, and contributions to this repository. Legacy BrewKernel code is preserved for historical purposes only and is not compatible with BoredOS.
-
----
-
-## License
-
-**Copyright (C) 2023–2026 Christiaan (chris@boreddev.nl)**
-
-Distributed under the **GNU General Public License v3**. See [`LICENSE`](LICENSE) for details.
-
-> [!IMPORTANT]
-> You must retain all copyright headers and include the original attribution in any redistributions or derivative works. See the [`NOTICE`](NOTICE) file for more details.
+| [Documentation Index](https://github.com/BoredOS/BoredOS/blob/main/docs/README.md) | Start here! |
+| [Architecture Overview](https://github.com/BoredOS/BoredOS/blob/main/docs/architecture/README.md) | Deep dive into the kernel |
+| [Building and Running](https://github.com/BoredOS/BoredOS/blob/main/docs/build/usage.md) | Set up your build environment |
+| [AppDev SDK](https://github.com/BoredOS/BoredOS/blob/main/docs/appdev/custom_apps.md) | Build your own apps for BoredOS |
