@@ -42,19 +42,6 @@
 
 ### Networking
 - **TCP/IP** — lwIP stack with DHCP, DNS, and Berkeley sockets
-- **Utilities** — `ping`, `curl`, `telnet`
-
-### Applications
-| Category | Applications |
-|----------|--------------|
-| Shell & CLI | bsh, kilo, ls, grep, find, tar |
-| Development | TCC, Lua, POSIX syscalls, custom app framework |
-| System | ps, fdisk, mkfs_fat, df, du, lsblk, pci_list, meminfo, sysfetch |
-| Graphics | Nova compositor + example clients (taskbar, wallpaper daemon) |
-| Network | ping, curl, telnet |
-
-
----
 
 
 
