@@ -23,27 +23,6 @@
 
 ---
 
-## Features
-
-### Kernel and Architecture
-- **Long Mode (x86_64)** 
-- **SMP** — Multi-core with IPI-based scheduling and cross-core synchronization
-- **Memory Management** — Slab allocator with object pooling; handles physical/virtual mapping
-- **VFS** — Unified interface over FAT32, TAR, ProcFS, and SysFS
-- **Preemptive Scheduling** — Priority-based, with full context isolation per process
-- **Hardware Support** — PCI, AHCI, PS/2, ACPI drivers
-- **Virtual Terminals** — 10 independent TTYs (`/dev/tty1`–`/dev/tty10`), each with its own graphics buffer
-
-### Display & Compositing
-- **Nova Compositor** — Userland window server over a UNIX socket (`/tmp/nova.sock`)
-- **Framebuffer** — `/dev/fb0` for direct pixel access and mode switching
-- **Window Management** — Layered rendering, decorations, focus, and client event routing
-- **Input Routing** — Keyboard and mouse via `/dev/keyboard` and `/dev/mouse`
-
-### Networking
-- **TCP/IP** — lwIP stack with DHCP, DNS, and Berkeley sockets
-
-
 
 ## 📚 Documentation
 
