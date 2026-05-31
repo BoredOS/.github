@@ -21,14 +21,3 @@
 > [!NOTE]
 > The screenshot above may represent a previous build and is subject to change as the UI evolves.
 
----
-
-
-## 📚 Documentation
-
-| Guide | Description |
-|-------|-------------|
-| [Documentation Index](https://github.com/BoredOS/BoredOS/blob/main/docs/README.md) | Start here! |
-| [Architecture Overview](https://github.com/BoredOS/BoredOS/blob/main/docs/architecture/README.md) | Deep dive into the kernel |
-| [Building and Running](https://github.com/BoredOS/BoredOS/blob/main/docs/build/usage.md) | Set up your build environment |
-| [AppDev SDK](https://github.com/BoredOS/BoredOS/blob/main/docs/appdev/custom_apps.md) | Build your own apps for BoredOS |
