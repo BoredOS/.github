@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="branding/bOS_full_gradient_cropped.png" alt="BoredOS Logo" width="450" />
+  <img src="https://github.com/BoredOS/BoredOS/blob/main/branding/bOS_full_gradient_cropped.png?raw=true" alt="BoredOS Logo" width="450" />
 
   <h3>A modern x86_64 hobbyist operating system built from the ground up.</h3>
 
