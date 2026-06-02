@@ -19,6 +19,3 @@
 
 ![Screenshot](https://raw.githubusercontent.com/BoredOS/BoredOS/refs/heads/main/branding/screenshot.jpg)
 
-> [!NOTE]
-> The screenshot above may represent a previous build and is subject to change as the UI evolves.
-
