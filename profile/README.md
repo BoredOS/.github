@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BoredOS/BoredOS/refs/heads/main/branding/bOS_full_gradient_cropped.png" alt="BoredOS Logo" width="450" />
+<div align="center">
+  <img src="branding/bOS_full_gradient_cropped.png" alt="BoredOS Logo" width="450" />
 
   <h3>A modern x86_64 hobbyist operating system built from the ground up.</h3>
 
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   ![Platform: x86_64](https://img.shields.io/badge/Platform-x86_64-lightgrey)
-  ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
   ![GitHub all releases](https://img.shields.io/github/downloads/boreddevnl/BoredOS/total?color=brightgreen)
+  [![Donate](https://img.shields.io/badge/Donate-❤️-pink)](https://buymeacoffee.com/boreddevhq)
 
   <br />
 
-  [Docs](https://github.com/BoredOS/BoredOS/blob/main/docs/README.md) · [Build & Run](https://github.com/BoredOS/BoredOS/blob/main/docs/build/usage.md) · [AppDev SDK](https://github.com/BoredOS/BoredOS/blob/main/docs/appdev/custom_apps.md) · [Discord](https://discord.gg/J2BxWaFAgY) · [Support](https://buymeacoffee.com/boreddevhq)
+  [Docs](docs/README.md) · [Build & Run](docs/build/usage.md) · [AppDev SDK](docs/appdev/sdk_reference.md) · [Discord](https://discord.gg/J2BxWaFAgY) 
 
 </div>
 
