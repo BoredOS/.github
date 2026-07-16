@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://github.com/BoredOS/BoredOS/blob/main/Base/Library/Images/branding/bOS_full_gradient_cropped.png?raw=true" alt="BoredOS Logo" width="450" />
+  <img src="https://github.com/BoredOS/BoredOS/raw/main/base/Library/Images/branding/bOS_full_gradient_cropped.png" alt="BoredOS Logo" width="450" />
 
   <h3>A modern x86_64 hobbyist operating system built from the ground up.</h3>
 
@@ -11,11 +11,13 @@
 
   <br />
 
-  [Docs](docs/README.md) · [Build & Run](docs/build/usage.md) · [AppDev SDK](docs/appdev/sdk_reference.md) · [Discord](https://discord.gg/J2BxWaFAgY) 
+  [Docs](https://github.com/BoredOS/BoredOS/blob/main/docs/README.md) · [Build & Run](https://github.com/BoredOS/BoredOS/blob/main/docs/build/usage.md) · [AppDev SDK](https://github.com/BoredOS/BoredOS/blob/main/docs/appdev/sdk_reference.md) · [Discord](https://discord.gg/J2BxWaFAgY) 
 
 </div>
 
 ---
 
-![Screenshot](https://raw.githubusercontent.com/BoredOS/BoredOS/refs/heads/main/Base/Library/Images/branding/screenshot.jpg)
+![Screenshot](https://github.com/BoredOS/BoredOS/raw/main/base/Library/Images/branding/screenshot.jpg)
 
+> [!NOTE]
+> The screenshot above may represent a previous build and is subject to change as the UI evolves.
