@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://github.com/BoredOS/BoredOS/raw/main/base/Library/Images/branding/bOS_full_gradient_cropped.png" alt="BoredOS Logo" width="450" />
+  <img src="https://raw.githubusercontent.com/BoredOS/BoredOS/refs/heads/main/base/Library/Icons/boredos/bos.png" alt="BoredOS Logo" width="250" />
 
   <h3>An operating system built for the enjoyment of building it.</h3>
 
